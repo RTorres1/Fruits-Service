@@ -7,3 +7,7 @@ Node app to fetch Fruit list.
 In the project directory, you can run:
 
 ### `npm start`
+
+## Design
+
+![react-design](node-design.jpg)
