@@ -10,4 +10,4 @@ In the project directory, you can run:
 
 ## Design
 
-![react-design](node-design.jpg)
+![node-design](node design.jpg)
