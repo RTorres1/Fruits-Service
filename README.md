@@ -10,4 +10,4 @@ In the project directory, you can run:
 
 ## Design
 
-![node-design](node design.jpg)
+![node-design](node-design.jpg)
